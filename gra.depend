@@ -1,0 +1,2042 @@
+# depslib dependency file v1.0
+1651152454 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-04-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+
+1651094092 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-04-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1651089387 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-04-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1651152397 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-04-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1651091570 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-04-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+
+1651152523 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-04-2022\gra\src\arena.cpp
+	"Arena.h"
+	"Przeciwnik.h"
+	"Przeciwnik.h"
+
+1651152470 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-04-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+
+1651239341 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Konfiguracja.h"
+
+1651159104 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1651160843 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1651159488 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+
+1651089387 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1651160851 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+
+1651159517 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\src\arena.cpp
+	"Arena.h"
+
+1651236743 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\src\gracz.cpp
+	"Gracz.h"
+
+1651236650 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\include\gracz.h
+	"Postac.h"
+
+1651235394 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1651165707 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1651239428 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+
+1651237445 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1651239302 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022\gra\konfiguracja.h
+
+1651319326 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Config.cpp"
+
+1652121723 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1651165707 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1651236650 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\include\gracz.h
+	"Postac.h"
+
+1651159104 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\include\postac.h
+	<bits/stdc++.h>
+
+1651239302 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\konfiguracja.h
+
+1651159517 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\src\arena.cpp
+	"Arena.h"
+
+1651159488 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+
+1651160843 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\include\przeciwnik.h
+	"Postac.h"
+
+1651239452 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\src\gracz.cpp
+	"Gracz.h"
+
+1651235394 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1651089387 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1651160851 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+
+1651319315 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+
+1651319339 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\include\config.cpp
+	"Plansza.h"
+
+1651319339 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\28-04-2022 - copy\gra\include\config.cpp
+	"Plansza.h"
+
+1652122613 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652121723 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122220 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1651236650 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\include\gracz.h
+	"Postac.h"
+
+1651159104 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1651159517 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\src\arena.cpp
+	"Arena.h"
+
+1651159488 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+
+1651160843 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1651239452 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+
+1651089387 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1651160851 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+
+1652122228 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1652122515 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+
+1652122688 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\konfiguracja.h
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\09-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1652209444 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652178302 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1651160843 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1652214704 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1652209861 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\include\gracz.h
+	"Postac.h"
+
+1652121723 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1652189306 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652214716 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1652210256 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+
+1652210337 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1651089387 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1651160851 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1652209444 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652215190 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\include\postac.h
+	<bits/stdc++.h>
+
+1651160843 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\include\przeciwnik.h
+	"Postac.h"
+
+1652214704 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1652209861 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\include\gracz.h
+	"Postac.h"
+
+1652121723 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1652214716 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1652189306 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652210256 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+
+1652210337 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1651089387 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1651160851 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\10-05-2022v2\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1652623615 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1652624105 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1652214704 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1652209861 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\include\gracz.h
+	"Postac.h"
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1652621868 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1652623282 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652624664 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+
+1652620579 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1651160851 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1652623615 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\include\postac.h
+	<bits/stdc++.h>
+
+1652820621 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\include\przeciwnik.h
+	"Postac.h"
+
+1652628260 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1652822363 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\include\gracz.h
+	"Postac.h"
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1652815404 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1652814590 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652822924 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1652814546 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1652820577 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\15-05-2022v2\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1652814590 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652822363 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\include\gracz.h
+	"Postac.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1652815404 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1652628260 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1652820621 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653242549 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+
+1652820577 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1652814546 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653242318 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653244896 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\include\postac.h
+	<bits/stdc++.h>
+
+1652820621 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\include\przeciwnik.h
+	"Postac.h"
+
+1652628260 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653243945 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\include\gracz.h
+	"Postac.h"
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\include\config.cpp
+	"Plansza.h"
+
+1653247370 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1653244924 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653243446 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653243105 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653247080 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v2\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653244896 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\include\postac.h
+	<bits/stdc++.h>
+
+1652820621 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653243945 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\include\gracz.h
+	"Postac.h"
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\include\config.cpp
+	"Plansza.h"
+
+1653247370 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1653247553 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653243105 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653247496 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653247533 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v3\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653256744 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653254523 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653256402 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\include\config.cpp
+	"Plansza.h"
+
+1653255054 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1653247496 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653254548 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653256213 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+
+1653255276 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\22-05-2022 v4\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653303960 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653254523 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653256402 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653255054 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1653247496 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653304065 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653254548 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653304462 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653338912 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653254523 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653256402 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\config.cpp
+	"Plansza.h"
+
+1653255054 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1653247496 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653310768 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653335772 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653335758 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1653339129 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1653339044 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\23-05-2022 v2\gra\include\przedmiot.h
+	<string>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1652214680 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653247496 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1653379096 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652624189 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653379950 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653254523 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\przeciwnik.h
+	"Postac.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1653310768 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+
+1653339044 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\include\przedmiot.h
+	<string>
+
+1653380731 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1652209258 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1652624236 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653335772 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653380430 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+
+1653340504 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v2\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\config.cpp
+	"Plansza.h"
+
+1653422859 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653472078 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+
+1653468631 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653254523 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653471885 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\config.cpp
+	"Plansza.h"
+
+1653470614 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\include\przedmiot.h
+	<string>
+
+1653472308 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653431704 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+
+1653471885 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1653423993 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1653468624 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653335772 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653424348 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\24-05-2022v3\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653422859 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653495732 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+
+1653468631 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653254523 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653479835 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653474944 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\include\przedmiot.h
+	<string>
+
+1653496724 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653472741 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+
+1653423993 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1653468624 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653335772 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653482301 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1653496445 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1653422859 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653500713 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+
+1653468631 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653651005 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653479835 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\config.cpp
+	"Plansza.h"
+
+1653499364 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\include\przedmiot.h
+	<string>
+
+1653653009 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+
+1653497704 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1653423993 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1653468624 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653650985 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653482301 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1653500705 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\25-05-2022v2\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653422859 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653500713 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+
+1653838247 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653651005 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653838119 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653499364 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\include\przedmiot.h
+	<string>
+
+1653838261 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653838142 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1653837935 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1653468624 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653650985 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653482301 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1653653629 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\27-05-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653422859 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653500713 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+
+1653838829 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653651005 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653247463 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653838840 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653499364 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\include\przedmiot.h
+	<string>
+
+1653838303 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653653629 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+
+1653837935 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1653468624 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653650985 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653482301 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\29.05.2022\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653422859 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1653986454 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+	"Boss.h"
+
+1653838829 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653651005 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1653984420 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1653985891 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653499364 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\przedmiot.h
+	<string>
+
+1653838303 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1653986603 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+	"Boss.h"
+
+1653986420 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1653837935 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1653468624 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653650985 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653482301 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1653986577 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\src\boss.cpp
+	"Boss.h"
+	<../Konfiguracja.h>
+
+1653986613 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\31-05-2022\gra\include\boss.h
+	<Gracz.h>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1653422859 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1654256633 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+	"Boss.h"
+
+1654441647 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1653651005 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1654264769 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1654260808 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1654261822 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\przedmiot.h
+	<string>
+
+1654264966 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\include\boss.h
+	<Gracz.h>
+	"../Konfiguracja.h"
+
+1654261732 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Menu.h"
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1654264980 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+	"Boss.h"
+
+1654264986 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\src\boss.cpp
+	"Boss.h"
+	<../Konfiguracja.h>
+	"Gracz.h"
+
+1654264797 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1653837935 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1654264190 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1653650985 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653482301 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\03-06-2022\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1654587722 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1654256633 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+	"Boss.h"
+
+1654441647 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\postac.h
+	<bits/stdc++.h>
+
+1654588119 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\przeciwnik.h
+	"Postac.h"
+
+1654264769 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1654589665 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\config.cpp
+	"Plansza.h"
+
+1654588616 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1653424352 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\przedmiot.h
+	<string>
+
+1654264966 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\include\boss.h
+	<Gracz.h>
+	"../Konfiguracja.h"
+
+1654588660 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1654587625 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+	"Boss.h"
+
+1654586977 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\src\boss.cpp
+	"Boss.h"
+	<../Konfiguracja.h>
+	"Gracz.h"
+
+1653837935 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1654264190 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1654588016 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1653482301 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1654586915 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\07-06-2022\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\config.cpp
+	"Plansza.h"
+
+1654985946 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1654987833 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+	"Boss.h"
+
+1654987535 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\postac.h
+	<bits/stdc++.h>
+
+1654987641 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\przeciwnik.h
+	"Postac.h"
+
+1654984839 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1654988289 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\config.cpp
+	"Plansza.h"
+
+1654984846 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1654987767 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\przedmiot.h
+	<string>
+
+1654986912 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\include\boss.h
+	<Gracz.h>
+	"../Konfiguracja.h"
+
+1654988307 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1654987869 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+	"Boss.h"
+
+1654986949 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\src\boss.cpp
+	"Boss.h"
+	<../Konfiguracja.h>
+	"Gracz.h"
+
+1654988372 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1654986000 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1654987336 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1654987707 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1654987808 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\final\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+
+1652122694 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\config.cpp
+	"Plansza.h"
+
+1654985946 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\plansza.h
+	<bits/stdc++.h>
+
+1654987833 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\main.cpp
+	<iostream>
+	"Postac.h"
+	"Przeciwnik.h"
+	"Arena.h"
+	"Gracz.h"
+	"Plansza.h"
+	"Menu.h"
+	"Config.cpp"
+	"Konfiguracja.h"
+	"Przedmiot.h"
+	"Boss.h"
+
+1654987535 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\postac.h
+	<bits/stdc++.h>
+
+1654987641 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\przeciwnik.h
+	"Postac.h"
+
+1654984839 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\arena.h
+	"Postac.h"
+	"Przeciwnik.h"
+	"Gracz.h"
+
+1654988289 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\gracz.h
+	"Postac.h"
+	<vector>
+
+1652621276 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\menu.h
+	"Plansza.h"
+	"Gracz.h"
+
+1652122694 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\config.cpp
+	"Plansza.h"
+
+1654984846 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\konfiguracja.h
+	"Gracz.h"
+	"Arena.h"
+	"Plansza.h"
+	"Przedmiot.h"
+
+1654987767 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\przedmiot.h
+	<string>
+
+1654986912 c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\include\boss.h
+	<Gracz.h>
+	"../Konfiguracja.h"
+
+1654988307 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Plansza.h"
+	"Gracz.h"
+	"Konfiguracja.h"
+	"Config.cpp"
+
+1654987869 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\src\arena.cpp
+	"Arena.h"
+	"../Konfiguracja.h"
+	<conio.h>
+	"Przedmiot.h"
+	"Boss.h"
+
+1654986949 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\src\boss.cpp
+	"Boss.h"
+	<../Konfiguracja.h>
+	"Gracz.h"
+
+1654988372 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\src\gracz.cpp
+	"Gracz.h"
+	"Plansza.h"
+	"conio.h"
+	<windows.h>
+	"../Konfiguracja.h"
+	<cctype>
+
+1654986000 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\src\plansza.cpp
+	"Plansza.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"../Konfiguracja.h"
+
+1654987336 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\src\postac.cpp
+	"Postac.h"
+	"bits/stdc++.h"
+
+1654987707 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\src\przeciwnik.cpp
+	"Przeciwnik.h"
+	"../Konfiguracja.h"
+	"Arena.h"
+
+1656833901 source:c:\users\szymon\onedrive\studia\1 rok\2 semestr\programowanie obiektowe\gra\1.1\gra\src\przedmiot.cpp
+	"Przedmiot.h"
+

@@ -1,0 +1,16 @@
+#ifndef ZESPOLONA_
+#define ZESPOLONA_
+
+
+class zespolona
+{
+    public:
+        zespolona();
+        virtual ~zespolona();
+
+    protected:
+
+    private:
+};
+
+#endif // ZESPOLONA_
