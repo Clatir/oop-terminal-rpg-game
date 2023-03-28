@@ -1,2 +1,2 @@
 # oop-terminal-rpg-game
-University project for object oriented programming
+To launch this game you need to build project file "gra.cbp" in CodebBocks, all the files must remain in the same folder.
